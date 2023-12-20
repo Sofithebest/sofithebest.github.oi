@@ -1,3 +1,3 @@
-# estos son los planes pra :
+# estos son los planes para :
 destruir el mundo
-ahora es salvar
+ahora se debe de salvar el mundo
