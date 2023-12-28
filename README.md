@@ -7,6 +7,7 @@
 ##### h5
 ###### h6
 _hello_
+
   < img  src = " https://readme-typing-svg.demolab.com?font=Alkatra&duration=2000&pause=1000&multiline=true&width=435&height=200&lines=%F0%9F%91%8B+¡Hola!+Soy+Justin !;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Apoyando+a+nuestros+clientes+%40Github;%F0%9F%93%8C+Estoy+basado+en+ Australia;%F0%9F%A7%A0+Estoy+aprendiendo+Python+%2B+Ruby;%F0%9F%98%8D+Anime%2Fmanga%2Amante+de+la+novela+de+vuelo.;%F0%9F%8F% 8E%EF%B8%8F+McLaren+F1;%E2%9A%BD%EF%B8%8F+Manchester+United&color=000000 " />
 </ imagen >
 
