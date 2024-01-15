@@ -20,7 +20,3 @@
 
 - Live Site URL: [here](https://github-profile-beige.vercel.app/)
 - DevChallenges Solution URL: [here](https://devchallenges.io/solution/5051)
-
-<a href="https://github.com/cumulo-autumn/StreamDiffusion/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=cumulo-autumn/StreamDiffusion" />
-</a>
