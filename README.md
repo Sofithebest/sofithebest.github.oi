@@ -114,3 +114,6 @@ Soy ingeniero de software desde hace más de 13 años. Desde hace 5 años combin
 ### En mi perfil de GitHub tienes más información
 
 [![Web](https://img.shields.io/badge/GitHub-MoureDev-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/mouredev)
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wired.com%2Farticulos%2Falternativas-gratuitas-a-midjourney-para-crear-imagenes-con-ia-generativa&psig=AOvVaw3PqZ3cQXA_NYFa-PJXUf65&ust=1705449006280000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPibouPK4IMDFQAAAAAdAAAAABAJ
+
